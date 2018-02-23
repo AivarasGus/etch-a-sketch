@@ -1,0 +1,25 @@
+h1{
+  text-align: center;
+}
+
+.main-container{
+  display: grid;
+  border: 10px solid red;
+  border-radius: 5px;
+  margin: auto;
+  height: 500px;
+  width: 500px;
+}
+
+.inactive{
+  border: 1px dotted black;
+  background-color: gray;
+}
+
+.input-elements{
+  text-align: center;
+}
+
+.colored{
+  background: red;
+}
